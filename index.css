@@ -52,6 +52,20 @@ ul>li{
     width: 100%;
 }
 
+.filter-btn{
+    padding: 20px;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.filter-btn:hover{
+    background-color: black;
+    color: lightgreen;
+    cursor: pointer;
+}
+
 .shimmer-container{
     width: 10%;
     background-color: antiquewhite;
