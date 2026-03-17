@@ -1,4 +1,6 @@
-.header{
+@import "tailwindcss";
+
+/* .header{
     display: flex;
     justify-content: space-between;
     background-color: antiquewhite;
@@ -67,7 +69,49 @@ ul>li{
 }
 
 .shimmer-container{
-    width: 10%;
-    background-color: antiquewhite;
-    border: 1px solid black;
+     margin: 0px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightcyan;
 }
+
+.shimmer-cards{
+     width: 20%;
+    height: 100%;
+    margin: 1%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: lightgray;
+}
+
+.shimmer-title{
+    width: 80%;
+    height: 10px;
+    background-color: grey;
+    margin: 20px;
+}
+.shimmer-image{
+    width: 90%;
+    height: 100px;
+    background-color: gray;
+    margin: 5px;
+}
+
+.login{
+    background-color: green;
+    font-size: 20px;
+    padding: 0px 30px;
+    margin: 5px;
+    border: 0px;
+    border-radius: 15px;
+}
+.filter{
+    display: flex;
+    margin: 10px 0px;
+}
+
+.user-card{
+    width: 50%;
+    border: 1px solid black;
+    box-shadow: 15px 15px 5px pink;
+} */
